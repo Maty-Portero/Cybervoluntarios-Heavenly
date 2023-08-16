@@ -195,10 +195,10 @@
             <strong style="font-size: 25px;">CYBERVOLUNTARIOS</strong>
         </div>
         <nav class="asuntos">
-            <a href="">Publicaciones</a>
-            <a href="">Contacto</a>
-            <a href="">Sobre Nosotros</a>
-            <button class="btnlogin">Login</button>
+            <a href="login_register/index.php">Publicaciones</a>
+            <a href="contact.php">Contacto</a>
+            <a href="sobre_nosotros.php">Sobre Nosotros</a>
+            <button class="btnlogin"><a href="login_register/index.php">Login</a></button>
         </nav>
     </header>
 
@@ -222,7 +222,7 @@
                         <br></br>
                         <h3 class="fw-light">Personas</h3>
                         <p>Si estás buscando maneras de marcar la diferencia y apoyar a las personas que más lo necesitan, considera hacer una donación. ¡Haz una donación hoy y haz una diferencia en la vida de alguien!</p>
-                        <button class="btn2">QUIERO AYUDAR A LOS DEMÁS</button>
+                        <button class="btn2"><a href="login_register/index.php">QUIERO AYUDAR A LOS DEMÁS</a></button>
                     </div>
                 </div>
                 <br>
@@ -232,7 +232,7 @@
                         <br></br>
                         <h3 class="fw-light">Animales</h3>
                         <p>Si eres un amante de los animales y te preocupa su bienestar, considera hacer una donación. ¡Haz una donación hoy y ayúdanos a proteger y cuidar a los animales!</p>
-                        <button class="btn2">QUIERO AYUDAR A LOS ANIMALES</button>
+                        <button class="btn2"><a href="login_register/index.php">QUIERO AYUDAR A LOS ANIMALES</a></button>
                     </div>
                 </div>
             </div>
