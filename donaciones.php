@@ -251,9 +251,9 @@
         <section class="py-5 text-center inicio">
             <div>
                 <div class="col-lg-6 col-md-8 mx-auto informa">
-                    <img style="height: 180px; width: 180px; margin: 10px" src="https://cdn-icons-png.flaticon.com/512/2913/2913494.png">
-                    <h1 class="fw-light">ANIMALES</h1>
-                    <p style="color: #000; font-size: 20px">En esta parte de la pagina podras encontrar las diferentes donaciones dirigidas hacia los distintos animales que quieras ayudar.</p>
+                    <img style="height: 180px; width: 180px; margin: 10px" src="https://cdn-icons-png.flaticon.com/512/878/878820.png">
+                    <h1 class="fw-light">PERSONAS</h1>
+                    <p style="color: #000; font-size: 20px">En esta parte de la pagina podras encontrar las diferentes donaciones dirigidas hacia los mas necesitados.</p>
                 </div>
             </div>
         </section>
@@ -266,22 +266,22 @@
                     <div class="col">
                         <div class="card shadow">
                             <div class="card-body">
-                                <img src="https://cdn-icons-png.flaticon.com/512/2700/2700602.png" style="width: 90%; height: 90%; margin: 15px">
+                                <img src="https://cdn.icon-icons.com/icons2/2273/PNG/512/self_protection_lunch_food_healthcare_medical_covid_icon_140744.png" style="width: 90%; height: 90%; margin: 15px">
                                 <br></br>
                                 <center><button type="button">COMIDA</button></center>
                                 <br>
-                                <p>Dona alimentos y proporciona una nutrición vital para nuestros amigos peludos.</p>
+                                <p>Tu donación de alimentos puede llenar estómagos y corazones. Comparte la alegría de una comida nutritiva.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div class="card shadow">
                             <div class="card-body">
-                                <img src="https://cdn-icons-png.flaticon.com/512/2137/2137583.png" style="width: 90%; height: 90%; margin: 15px">
+                                <img src="https://cdn-icons-png.flaticon.com/512/545/545546.png" style="width: 90%; height: 90%; margin: 15px">
                                 <br></br>
-                                <center><button type="button">ARTICULOS</button></center>
+                                <center><button type="button">ROPA</button></center>
                                 <br>
-                                <p>Dona casitas, juguetes, ropa y más para brindarles confort y felicidad.</p>
+                                <p>Dona ropa y calzado para ayudar a las personas a abrigarse y sentirse cómodas en cualquier estación del año.</p>
                             </div>
                         </div>
                     </div>
@@ -292,18 +292,18 @@
                                 <br></br>
                                 <center><button type="button">DINERO</button></center>
                                 <br>
-                                <p>Tu contribución financiera nos permite rescatar, cuidar y encontrar hogares para aquellos que lo necesitan.</p>
+                                <p>Dona dinero y ayuda a nuestra organización a brindar asistencia vital a personas necesitadas.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div class="card shadow">
                             <div class="card-body">
-                                <img src="https://cdn-icons-png.flaticon.com/512/2834/2834155.png" style="width: 90%; height: 90%; margin: 15px">
+                                <img src="https://cdn-icons-png.flaticon.com/512/100/100520.png" style="width: 90%; height: 90%; margin: 15px">
                                 <br></br>
-                                <center><button type="button">MEDICAMENTOS</button></center>
+                                <center><button type="button">ARTICULOS</button></center>
                                 <br>
-                                <p>Tu donación de vendajes y medicamentos ayuda a los animales heridos a sanar y recuperarse.</p>
+                                <p>Dona juguetes, artículos de higiene personal, libros y más. Brinda cuidado y conocimiento a los demás. </p>
                             </div>
                         </div>
                     </div>
@@ -325,8 +325,6 @@
                     </div>
                 </div>
             </div>
-
-
         </div>
 
         <br></br>
