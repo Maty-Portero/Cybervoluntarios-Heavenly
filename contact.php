@@ -233,10 +233,9 @@
             <strong style="font-size: 25px;">CYBERVOLUNTARIOS</strong>
         </div>
         <nav class="asuntos">
-	<a href="">Publicaciones</a>
-            <a href="">Inicio</a>
-            <a href="">Sobre Nosotros</a>
-            <button class="btnlogin">Login</button>
+            <a href="home.php">Inicio</a>
+            <a href="sobre_nosotros.php">Sobre Nosotros</a>
+            <button class="btnlogin"><a href="login_register/index.php">Login</a></button>
         </nav>
     </header>
 
