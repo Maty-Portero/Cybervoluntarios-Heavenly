@@ -21,7 +21,7 @@ if (mysqli_num_rows($verificar_correo) > 0) {
     echo '
         <script>
             alert("Este correo ya existe, intentalo de nuevo");
-            window.location = "../index.php";
+            window.location = "index.php";
         </script>
     ';
     exit();
@@ -34,7 +34,7 @@ if (mysqli_num_rows($verificar_usuario) > 0) {
     echo '
         <script>
             alert("Este usuario ya existe, intentalo de nuevo");
-            window.location = "../index.php";
+            window.location = "index.php";
         </script>
     ';
     exit();
@@ -45,14 +45,14 @@ if ($ejecutar) {
     echo '
         <script>
             alert("Usuario Registrado");
-            window.location = "../index.php";
+            window.location = "index.php";
         </script>
     ';
 } else {
     echo '
         <script>
             alert("Intente Nuevamente");
-            window.location = "../index.php";
+            window.location = "index.php";
         </script>
     ';
 }

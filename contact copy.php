@@ -235,7 +235,7 @@
         <nav class="asuntos">
             <a href="home copy.php">Inicio</a>
             <a href="sobre_nosotros copy.php">Sobre Nosotros</a>
-            <a href="">Publicaciones</a>
+            <a href="publicaciones.php">Publicaciones</a>
         </nav>
     </header>
 
