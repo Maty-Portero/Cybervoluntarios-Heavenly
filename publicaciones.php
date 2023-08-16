@@ -139,8 +139,8 @@
             <strong style="font-size: 25px;">CYBERVOLUNTARIOS</strong>
         </div>
         <nav class="asuntos">
+        <a href="home copy.php">Inicio</a>
             <a href="contact copy.php">Contacto</a>
-            <a href="home copy.php">Inicio</a>
             <a href="">Sobre Nosotros</a>
         </nav>
     </header>
@@ -158,7 +158,7 @@
                 </svg>
                 <div class="container">
                     <div class="carousel-caption text-start">
-                        <h1>Dona organos</h1>
+                        <h1>Dona órganos</h1>
                         <p class="opacity-75">Some representative placeholder content for the first slide of the carousel.</p>
                         <p><a class="btn btn-lg btn-primary" href="">Sign up today</a></p>
                     </div>
@@ -265,7 +265,7 @@
                             <div class="card-body">
                                 <img src="https://http2.mlstatic.com/D_NQ_NP_637363-MLA49164575445_022022-O.webp" style="width: 90%; height: 90%; margin: 15px">
                                 <br>
-                                <h5 style="padding-bottom: 5px;">spaghetti factory juguete</h5>
+                                <h5 style="padding-bottom: 5px;">Spaghetti factory juguete</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum aliquid.</p>
                                 <center><button type="button"><a href="spaghetti factory juguete.php">VER MÁS</a></button></center>
                             </div>
@@ -305,7 +305,7 @@
                             <div class="card-body">
                                 <img src="https://blog.trapitos.com.ar/images/qAKeHGn35cXXedp8stpck2i4TQYP0dYYqBePNbyN.jpeg" style="width: 90%; height: 90%; margin: 15px">
                                 <br>
-                                <h5 style="padding-bottom: 5px;">juguete para perrro</h5>
+                                <h5 style="padding-bottom: 5px;">Juguete para perro</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est placeat harum voluptatibus.</p>
                                 <center><button type="button"><a href="juguete perro.php">VER MÁS</a></button></center>
                             </div>

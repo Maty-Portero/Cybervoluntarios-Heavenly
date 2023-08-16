@@ -317,10 +317,10 @@
             <h2>Terreneitor</h2>
             <br>
             <p>Lorem ipsum dolor sit, reiciendis maxime assumenda quos cupiditate, laudantium aliquam fugit quis culpa molestias voluptatum accusamus.</p>
-            <p>condicion: usado</p>
+            <p>Condición: usado</p>
             <p>Material: Plástico</p>
-            <p>stock: 3 disponibles</p>
-            <button class="solicitar">contactar</button>
+            <p>Stock: 3 disponibles</p>
+            <button class="solicitar">Contactar</button>
         </div>
         <section>
             <div class="info-prod" style="padding: 30px">
@@ -340,7 +340,7 @@
                 <br><br><br>
                 <button class="solicitar">Solicitar donación</button>
                 <br><br>
-                <button class="solicitar">añadir al carrito</button>
+                <button class="solicitar">Añadir al carrito</button>
             </div>
         </section>
     </section>
@@ -368,7 +368,7 @@
                         <div class="card-body">
                             <img src="https://http2.mlstatic.com/D_NQ_NP_637363-MLA49164575445_022022-O.webp" style="width: 90%; height: 90%; margin: 15px">
                             <br>
-                            <h5 style="padding-bottom: 5px;">spaghetti factory juguete</h5>
+                            <h5 style="padding-bottom: 5px;">Spaghetti factory juguete</h5>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum aliquid.</p>
                             <center><button type="button"><a href="spaghetti factory juguete.php">VER MÁS</a></button></center>
                         </div>

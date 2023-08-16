@@ -288,9 +288,9 @@
             <strong style="font-size: 25px;">CYBERVOLUNTARIOS</strong>
         </div>
         <nav class="asuntos">
+            <a href="home copy.php">Inicio</a>
             <a href="publicaciones.php">Publicaciones</a>
             <a href="contact copy.php">Contacto</a>
-            <a href="home copy.php">Inicio</a>
             <a href="sobre_nosotros copy.php">Sobre Nosotros</a>
         </nav>
     </header>
@@ -314,14 +314,13 @@
     <section class="producto" style="margin-left: 12%">
         <img src="https://blog.trapitos.com.ar/images/qAKeHGn35cXXedp8stpck2i4TQYP0dYYqBePNbyN.jpeg" style="width: 30%; height: 40%" class="imagen-product">
         <div class="info-product" style="margin: 20px">
-            <h2>juguete para perro</h2>
+            <h2>Juguete para perro</h2>
             <br>
             <p>Lorem ipsum dolor sit, reiciendis maxime assumenda quos cupiditate, laudantium aliquam fugit quis culpa molestias voluptatum accusamus.</p>
-            <p>condicion: usado</p>
-            <p>tela: algodon</p>
-            <p>stock: 3 disponibles</p>
-            <p>tela: algodon</p>
-            <button class="solicitar">contactar</button>
+            <p>Condición: usado</p>
+            <p>Material: plastico</p>
+            <p>Stock: 3 disponibles</p>
+            <button class="solicitar">Contactar</button>
         </div>
         <section>
             <div class="info-prod" style="padding: 30px">
@@ -341,7 +340,7 @@
                 <br><br><br>
                 <button class="solicitar">Solicitar donación</button>
                 <br><br>
-                <button class="solicitar">añadir al carrito</button>
+                <button class="solicitar">Añadir al carrito</button>
             </div>
         </section>
     </section>
@@ -403,4 +402,5 @@
         </div>
     </footer>
 </body>
+
 </html>

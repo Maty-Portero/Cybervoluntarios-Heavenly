@@ -85,7 +85,7 @@
     }
 
     .asuntos button {
-        width: 90px;
+        width: 100px;
         height: 50px;
         background: transparent;
         border: 2px solid #000;
@@ -98,7 +98,10 @@
 
     .asuntos button:hover {
         background: #000;
-        color: rgb(255, 255, 255);
+    }
+
+    .asuntos a:hover{
+        color: white;
     }
 
     /* fondo degradadado */
@@ -207,7 +210,7 @@
                 <div class="col-lg-6 col-md-8 mx-auto informa">
                     <img style="height: 180px; width: 180px; margin: 10px" src="https://static.thenounproject.com/png/194335-200.png">
                     <h1 class="fw-light">CYBERVOLUNTARIOS</h1>
-                    <h3 class="fw-light">¿que somos?</h3>
+                    <h3 class="fw-light">¿Qué somos?</h3>
                     <p style="color: #000; font-size: 20px">Somos una organización sin fines de lucro que se dedica a ayudar a los más necesitados, y tu donación será utilizada para brindarles el apoyo que necesitan.</p>
                 </div>
             </div>

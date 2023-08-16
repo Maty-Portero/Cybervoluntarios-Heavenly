@@ -253,7 +253,7 @@
                 <div class="col-lg-6 col-md-8 mx-auto informa">
                     <img style="height: 180px; width: 180px; margin: 10px" src="https://cdn-icons-png.flaticon.com/512/878/878820.png">
                     <h1 class="fw-light">PERSONAS</h1>
-                    <p style="color: #000; font-size: 20px">En esta parte de la pagina podras encontrar las diferentes donaciones dirigidas hacia los mas necesitados.</p>
+                    <p style="color: #000; font-size: 20px">En esta parte de la pagina podras encontrar las diferentes donaciones dirigidas hacia los más necesitados.</p>
                 </div>
             </div>
         </section>
@@ -338,7 +338,7 @@
                     <div class="col-lg-7">
                         <br>
                         <b>
-                            <p>Punto de encuentro: escuela técnica 26 av Jujuy (ej)</p>
+                            <p>Punto de encuentro: Escuela Técnica 26 Av Jujuy (ej)</p>
                         </b>
                         <p>Morbi eget metus vel felis sodales venenatis. Aenean massa nunc, commodo tempor magna, tincidunt aliquet exquis...</p>
                         <button type="button" class="btn-comida">VER MÁS</button>
@@ -350,7 +350,7 @@
                     <div class="col-lg-7">
                         <br>
                         <b>
-                            <p>Punto de encuentro: Buenos Aires san Telmo, carlos calvo 632 (ej)</p>
+                            <p>Punto de encuentro: Buenos Aires san Telmo, Carlos Calvo 632 (ej)</p>
                         </b>
                         <p>Morbi eget metus vel felis sodales venenatis. Aenean massa nunc, commodo tempor magna, tincidunt aliquet exquis...</p>
                         <button type="button" class="btn-comida">VER MÁS</button>

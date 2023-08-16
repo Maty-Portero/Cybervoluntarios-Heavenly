@@ -288,9 +288,9 @@
             <strong style="font-size: 25px;">CYBERVOLUNTARIOS</strong>
         </div>
         <nav class="asuntos">
+            <a href="home copy.php">Inicio</a>
             <a href="publicaciones.php">Publicaciones</a>
             <a href="contact copy.php">Contacto</a>
-            <a href="home copy.php">Inicio</a>
             <a href="sobre_nosotros copy.php">Sobre Nosotros</a>
         </nav>
     </header>
@@ -317,11 +317,10 @@
             <h2>Rascador de gato en perfectas condiciones</h2>
             <br>
             <p>Lorem ipsum dolor sit, reiciendis maxime assumenda quos cupiditate, laudantium aliquam fugit quis culpa molestias voluptatum accusamus.</p>
-            <p>condicion: usado</p>
-            <p>tela: algodon</p>
-            <p>stock: 3 disponibles</p>
-            <p>tela: algodon</p>
-            <button class="solicitar">contactar</button>
+            <p>Condición: usado</p>
+            <p>Stock: 3 disponibles</p>
+            <p>Material: madera, tela y soga</p>
+            <button class="solicitar">Contactar</button>
         </div>
         <section>
             <div class="info-prod" style="padding: 30px">
@@ -341,7 +340,7 @@
                 <br><br><br>
                 <button class="solicitar">Solicitar donación</button>
                 <br><br>
-                <button class="solicitar">añadir al carrito</button>
+                <button class="solicitar">Añadir al carrito</button>
             </div>
         </section>
     </section>
@@ -369,7 +368,7 @@
                         <div class="card-body">
                             <img src="https://blog.trapitos.com.ar/images/qAKeHGn35cXXedp8stpck2i4TQYP0dYYqBePNbyN.jpeg" style="width: 90%; height: 90%; margin: 15px">
                             <br>
-                            <h5 style="padding-bottom: 5px;">juguete para perro</h5>
+                            <h5 style="padding-bottom: 5px;">Juguete para perro</h5>
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque corporis quisquam quasi distinctio fugiat.</p>
                             <center><button type="button"><a href="juguete perro.php">VER MÁS</a></button></center>
                         </div>

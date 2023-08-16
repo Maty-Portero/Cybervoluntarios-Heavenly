@@ -314,12 +314,12 @@
     <section class="producto" style="margin-left: 12%">
         <img src="https://http2.mlstatic.com/D_NQ_NP_637363-MLA49164575445_022022-O.webp" style="width: 30%; height: 40%" class="imagen-product">
         <div class="info-product" style="margin: 20px">
-            <h2>spaghetti factory juguete</h2>
+            <h2>Spaghetti factory juguete</h2>
             <br>
             <p>Lorem ipsum dolor sit, reiciendis maxime assumenda quos cupiditate, laudantium aliquam fugit quis culpa molestias voluptatum accusamus.</p>
-            <p>condicion: usado</p>
-            <p>stock: 3 disponibles</p>
-            <button class="solicitar">contactar</button>
+            <p>Condición: usado</p>
+            <p>Stock: 3 disponibles</p>
+            <button class="solicitar">Contactar</button>
         </div>
         <section>
             <div class="info-prod" style="padding: 30px">
@@ -339,7 +339,7 @@
                 <br><br><br>
                 <button class="solicitar">Solicitar donación</button>
                 <br><br>
-                <button class="solicitar">añadir al carrito</button>
+                <button class="solicitar">A|ñadir al carrito</button>
             </div>
         </section>
     </section>

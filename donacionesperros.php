@@ -321,7 +321,7 @@
                         <br></br><br>
                         <button type="button" class="btn">QUIERO SER VOLUNTARIO</button>
                         <br></br>
-                        <p>Únete como voluntario y brinda amor, cuidado y atención a los que mas lo necesitan, tanto animales como personas. ¡Únete a nosotros y sé la voz de aquellos que no pueden hablar!</p>
+                        <p>Únete como voluntario y brinda amor, cuidado y atención a los que más lo necesitan, tanto animales como personas. ¡Únete a nosotros y sé la voz de aquellos que no pueden hablar!</p>
                     </div>
                 </div>
             </div>

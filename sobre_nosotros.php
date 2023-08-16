@@ -225,7 +225,7 @@
 
         </div>
         <nav class="asuntos">
-            <a href="home.php">HOME</a>
+            <a href="home.php">Inicio</a>
             <a href="contact.php">Contacto</a>
             <button class="btnlogin"><a id="btnlogin" href="../login_register/index.php">Login</a></button>
         </nav>
@@ -315,7 +315,7 @@
                                             <b>Diseñadora y programadora</b> <br>
                                             - Le gustan los michis <br>
                                             - Ama a Taylor Swift y One Direction <br>
-                                            - Robadora de busos profesional <br>
+                                            - Robadora de remeras profesional (especialmente al novio) <br>
                                             - Buena persona <br>
                                             - Prefiere el yogurt de vainilla
                                         </p>
@@ -334,7 +334,7 @@
                                         <p>
                                             <b>Programador</b> <br>
                                             - Top 1 programadores <br>
-                                            - Odia a todos <br>
+                                            - Odia a todos (menos a la novia y a messi) <br>
                                             - Muy bueno en codificación <br>
                                             - Le gustan los animales <br>
                                             - "Que asco los autos" <br>
