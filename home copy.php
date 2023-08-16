@@ -197,6 +197,7 @@
         <nav class="asuntos">
             <a href="contact copy.php">Contacto</a>
             <a href="sobre_nosotros copy.php">Sobre Nosotros</a>
+            <a href="">Publicaciones</a>
         </nav>
     </header>
 
