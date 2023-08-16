@@ -240,9 +240,10 @@
             <strong style="font-size: 25px;">CYBERVOLUNTARIOS</strong>
         </div>
         <nav class="asuntos">
-	<a href="home copy.php">Inicio</a>
+        <a href="home copy.php">Inicio</a>
             <a href="contact copy.php">Contacto</a>
             <a href="">Sobre Nosotros</a>
+            <a href="">Publicaciones</a>
         </nav>
     </header>
 
